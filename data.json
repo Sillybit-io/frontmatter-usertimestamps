@@ -1,0 +1,17 @@
+{
+  "username": "",
+  "useGitUsername": true,
+  "updateDelay": 2,
+  "dateFormat": "YYYY-MM-DD HH:mm:ss",
+  "enableModified": true,
+  "enableCreated": true,
+  "enableUsername": true,
+  "excludedFolders": [
+    "Templates"
+  ],
+  "excludeTemplatesFolder": true,
+  "showNotifications": true,
+  "debug": true,
+  "checkAllOnStartup": false,
+  "promptForUsername": true
+}

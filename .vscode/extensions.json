@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "editorconfig.editorconfig",
+    "oven.bun-vscode",
+    "snyk-security.snyk-vulnerability-scanner"
+  ]
+}

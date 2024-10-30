@@ -1,0 +1,11 @@
+{
+  "id": "frontmatter-usertimestamps",
+  "name": "Frontmatter User Timestamps",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.0",
+  "description": "Automatically updates created and modified dates and user information on Obsidian",
+  "author": "Sillybit",
+  "authorUrl": "https://sillybit.io",
+  "fundingUrl": "https://sillybit.io",
+  "isDesktopOnly": false
+}
